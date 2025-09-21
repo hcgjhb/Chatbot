@@ -86,7 +86,3 @@ Follow these instructions to set up and run the project locally.
 ├── streamlit\_frontend\_database.py  \# The Streamlit frontend application  
 ├── requirements.txt                \# Project dependencies  
 └── .env                            \# Environment variables for API key
-
-## **📜 License**
-
-This project is licensed under the MIT License.
